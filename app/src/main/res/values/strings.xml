@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <array name="city">
+        <item>Sidoarjo</item>
+        <item>Sleman</item>
+        <item>Surabaya</item>
+    </array>
+    <array name="kehadiran">
+        <item>Hadir Tepat Waktu</item>
+        <item>Sakit</item>
+        <item>Terlambat</item>
+        <item>Izin</item>
+    </array>
+</resources>
